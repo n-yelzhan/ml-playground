@@ -10,5 +10,4 @@ Key takeaway: the choice of metric and scale can change the conclusion — compa
 
 
 
-AI assistance: built with Claude (Anthropic) as a coding co-pilot. I reviewed, ran and commented the code myself.
-
+Build with AI assistance
