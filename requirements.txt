@@ -2,3 +2,6 @@ pandas
 matplotlib
 seaborn
 jupyter
+plotly
+nbformat
+scikit-learn
