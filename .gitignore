@@ -2,4 +2,4 @@
 .ipynb_checkpoints/
 __pycache__/
 *.csv
-.env
+.env.ipynb_checkpoints/
