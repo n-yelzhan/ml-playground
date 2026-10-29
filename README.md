@@ -26,3 +26,9 @@ comments, experiments and "What I learned" notes are my own.
 
 \- \[01–02 First look \& filters — Titanic](pandas/01\_first\_look/)
 
+
+
+\### PY — Python
+
+\- \[01 Functions — telecom \& bank metrics](py/01\_functions/)
+
