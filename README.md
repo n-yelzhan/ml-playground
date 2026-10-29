@@ -32,3 +32,5 @@ comments, experiments and "What I learned" notes are my own.
 
 \- \[01 Functions — telecom \& bank metrics](py/01\_functions/)
 
+\- \[03 Data cleaning — synthetic subscribers](pandas/03\_cleaning/)
+
