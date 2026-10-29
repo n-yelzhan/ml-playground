@@ -20,3 +20,9 @@ This is a learning repo. Code is written with help from Claude (Anthropic);
 
 comments, experiments and "What I learned" notes are my own.
 
+
+
+\### PANDAS — Data wrangling
+
+\- \[01–02 First look \& filters — Titanic](pandas/01\_first\_look/)
+
