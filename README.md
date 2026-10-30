@@ -34,3 +34,5 @@ comments, experiments and "What I learned" notes are my own.
 
 \- \[03 Data cleaning — synthetic subscribers](pandas/03\_cleaning/)
 
+\- \[04 Groupby \& agg — synthetic telecom payments](pandas/04\_groupby/)
+
