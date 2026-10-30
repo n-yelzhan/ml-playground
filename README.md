@@ -36,3 +36,5 @@ comments, experiments and "What I learned" notes are my own.
 
 \- \[04 Groupby \& agg — synthetic telecom payments](pandas/04\_groupby/)
 
+\- \[05 transform \& apply — synthetic subscribers](pandas/05\_transform\_apply/)
+
